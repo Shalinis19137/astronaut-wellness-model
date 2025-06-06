@@ -1,0 +1,76 @@
+Astronaut_ID,Name,Age_at_Mission_Start,Gender,Country,Mission_Duration (days),Number_of_Missions,Bone_Density_Loss (%),Muscle_Mass_Loss (%),Radiation_Exposure (mSv),Cardiovascular_Risk_Score,Immune_Response_Suppression (%),Psychological_Impact_Score,Vision_Change,Countermeasures_Used
+1,Astronaut_1,53,M,India,203,1,1.2,1.4,99,9,8.9,5,Clear,"Exercise, Calcium Supplements"
+2,Astronaut_2,50,M,Russia,314,5,1.1,2.4,119,6,9.3,9,Mild,"Exercise, Calcium Supplements"
+3,Astronaut_3,41,M,India,158,1,1.2,2.8,91,5,9.9,10,Severe,Vitamin D
+4,Astronaut_4,38,M,Germany,117,1,1.9,1.5,179,8,9.9,3,Moderate,"Exercise, Medication"
+5,Astronaut_5,53,F,USA,273,1,1.3,1.3,154,2,6.6,10,Mild,"Exercise, Vitamin D"
+6,Astronaut_6,46,F,UK,195,4,0.8,2.2,125,10,10.6,5,Severe,"Medication, Vitamin D"
+7,Astronaut_7,55,M,UK,164,1,1.6,2.1,186,2,10.1,7,Severe,"Exercise, Vitamin D"
+8,Astronaut_8,50,M,USA,129,3,1.3,2,195,6,11.9,7,Mild,"Exercise, Medication"
+9,Astronaut_9,50,M,Russia,194,5,1.5,2.4,178,2,6.2,4,Severe,"Exercise, Medication"
+10,Astronaut_10,49,M,Russia,176,2,1.6,1,197,3,10.9,10,Clear,"Exercise, Vitamin D"
+11,Astronaut_11,51,F,India,318,3,1.5,1.6,180,2,9.4,7,Moderate,"Medication, Vitamin D"
+12,Astronaut_12,54,F,France,343,1,1.2,2.7,101,4,14.8,3,Moderate,"Exercise, Vitamin D"
+13,Astronaut_13,54,F,USA,308,4,1.3,2,191,6,14,10,Mild,"Exercise, Vitamin D"
+14,Astronaut_14,54,M,Canada,178,2,1.6,2.5,85,4,11.5,10,Clear,"Exercise, Medication"
+15,Astronaut_15,47,M,Japan,274,5,1.6,2.7,128,5,8.4,5,Severe,"Exercise, Calcium Supplements"
+16,Astronaut_16,45,F,France,347,2,1.5,2.3,160,9,14,2,Severe,"Exercise, Medication"
+17,Astronaut_17,44,F,China,347,1,1.4,1.8,126,8,8.3,3,Severe,"Exercise, Medication"
+18,Astronaut_18,44,F,UK,365,3,1.7,2.6,108,2,6.5,1,Severe,Vitamin D
+19,Astronaut_19,47,F,Germany,295,2,1.9,2.4,85,9,7.8,3,Mild,Vitamin D
+20,Astronaut_20,35,F,Germany,265,4,1.6,3,178,10,6,9,Moderate,Vitamin D
+21,Astronaut_21,38,F,USA,151,3,1.6,1.6,136,5,5.5,4,Mild,"Exercise, Medication"
+22,Astronaut_22,40,F,UK,332,3,1.7,2.2,99,10,5.6,7,Severe,Vitamin D
+23,Astronaut_23,49,M,France,331,1,1.7,2.6,98,4,5.4,7,Moderate,Vitamin D
+24,Astronaut_24,42,F,Japan,364,2,1.9,3,183,3,13.3,5,Mild,"Medication, Vitamin D"
+25,Astronaut_25,45,F,Japan,113,4,1.9,1.8,159,9,9.3,9,Severe,Vitamin D
+26,Astronaut_26,37,F,China,199,1,1.3,2.1,200,3,6.9,3,Severe,"Medication, Vitamin D"
+27,Astronaut_27,48,F,India,116,2,1,2.9,115,2,14.1,6,Severe,Vitamin D
+28,Astronaut_28,43,M,India,324,5,1.9,2.5,193,3,10,2,Clear,"Medication, Vitamin D"
+29,Astronaut_29,46,M,India,358,3,1.2,1.2,142,4,5,3,Mild,"Medication, Vitamin D"
+30,Astronaut_30,35,M,USA,275,2,1.8,1.9,145,4,10.4,4,Moderate,Vitamin D
+31,Astronaut_31,39,M,India,279,5,1.9,1.2,122,1,8.7,9,Moderate,"Exercise, Medication"
+32,Astronaut_32,41,M,Germany,340,3,1.1,1.9,179,7,13.2,7,Moderate,"Exercise, Calcium Supplements"
+33,Astronaut_33,52,M,India,354,3,1.7,2.8,170,10,10.9,10,Clear,"Medication, Vitamin D"
+34,Astronaut_34,49,F,Japan,153,2,1.3,1.9,92,10,13.4,6,Severe,"Exercise, Calcium Supplements"
+35,Astronaut_35,53,M,Canada,196,5,1.5,2.9,167,2,13.9,6,Clear,"Medication, Vitamin D"
+36,Astronaut_36,39,F,Japan,289,2,1.3,1.2,156,2,11.8,2,Mild,"Medication, Vitamin D"
+37,Astronaut_37,44,M,Russia,144,3,0.8,1.1,94,2,9.8,8,Mild,"Exercise, Calcium Supplements"
+38,Astronaut_38,45,F,Germany,197,4,1.6,1.6,185,9,11.2,1,Mild,"Exercise, Calcium Supplements"
+39,Astronaut_39,42,M,Russia,292,2,1.8,2.8,105,1,9.9,3,Moderate,Vitamin D
+40,Astronaut_40,40,F,UK,307,4,1.8,1.1,159,7,7.7,7,Mild,"Exercise, Vitamin D"
+41,Astronaut_41,40,F,UK,234,2,1.3,2.4,178,1,13,7,Clear,"Exercise, Medication"
+42,Astronaut_42,37,F,India,277,1,1.2,2.3,200,4,5.5,10,Moderate,"Exercise, Vitamin D"
+43,Astronaut_43,49,F,USA,302,3,0.9,2.9,200,9,6.1,6,Moderate,Vitamin D
+44,Astronaut_44,49,M,Japan,122,3,1.8,2.4,153,4,12.4,8,Clear,"Medication, Vitamin D"
+45,Astronaut_45,47,M,Canada,350,5,1.4,1.2,177,1,8.5,5,Moderate,"Medication, Vitamin D"
+46,Astronaut_46,48,F,USA,215,2,1.4,2,120,3,5.8,8,Moderate,"Exercise, Vitamin D"
+47,Astronaut_47,41,M,Germany,308,1,1.7,2.9,89,4,6.8,3,Clear,"Medication, Vitamin D"
+48,Astronaut_48,45,M,France,176,5,2,2.2,146,6,11.8,6,Severe,Vitamin D
+49,Astronaut_49,39,F,Russia,171,1,1.5,1.7,171,2,14.7,4,Severe,"Exercise, Medication"
+50,Astronaut_50,54,F,China,289,2,1.8,1.8,164,7,9.2,7,Clear,"Exercise, Calcium Supplements"
+51,Astronaut_51,53,F,UK,203,2,1.5,1.3,130,8,13.1,7,Clear,"Exercise, Vitamin D"
+52,Astronaut_52,38,M,China,190,4,0.8,1.1,129,10,9.7,8,Mild,"Exercise, Medication"
+53,Astronaut_53,35,M,Canada,332,5,1.8,2.1,164,4,12.6,4,Moderate,"Medication, Vitamin D"
+54,Astronaut_54,40,F,France,292,1,1.8,3,130,10,5.7,9,Clear,"Exercise, Vitamin D"
+55,Astronaut_55,37,F,India,104,2,1.2,2,160,10,9.8,3,Severe,"Exercise, Vitamin D"
+56,Astronaut_56,52,M,Canada,160,4,0.9,1.3,86,9,7.7,10,Moderate,"Exercise, Vitamin D"
+57,Astronaut_57,48,M,USA,315,3,1.4,1.5,133,6,12.8,1,Clear,"Medication, Vitamin D"
+58,Astronaut_58,41,F,Germany,209,2,1.7,2.4,190,3,14.7,10,Moderate,"Exercise, Calcium Supplements"
+59,Astronaut_59,50,F,Germany,343,2,1,1.9,90,10,12.3,8,Clear,"Exercise, Calcium Supplements"
+60,Astronaut_60,46,F,UK,254,3,1.9,1.7,86,2,7.7,2,Clear,"Exercise, Calcium Supplements"
+61,Astronaut_61,55,F,India,227,4,1.7,2.2,84,7,7,5,Moderate,"Exercise, Vitamin D"
+62,Astronaut_62,41,M,India,308,2,1.8,2.9,160,7,11.1,10,Mild,"Exercise, Calcium Supplements"
+63,Astronaut_63,41,M,Russia,297,4,1.9,3,156,6,8.9,5,Mild,Vitamin D
+64,Astronaut_64,35,F,Japan,241,1,1.7,1.8,196,2,13.9,10,Moderate,Vitamin D
+65,Astronaut_65,42,F,Japan,330,4,1.7,1.1,185,5,5.7,4,Mild,Vitamin D
+66,Astronaut_66,38,M,Japan,303,3,1,1.2,176,3,9,10,Severe,"Medication, Vitamin D"
+67,Astronaut_67,48,M,Germany,149,5,1.4,2,190,5,13.4,6,Moderate,"Exercise, Calcium Supplements"
+68,Astronaut_68,52,M,Germany,222,2,1.9,2.5,105,5,10.9,9,Severe,"Exercise, Medication"
+69,Astronaut_69,36,F,France,167,5,0.9,1.2,126,5,7.3,2,Mild,Vitamin D
+70,Astronaut_70,36,M,France,235,2,1.8,1.3,115,9,12,9,Severe,Vitamin D
+71,Astronaut_71,49,F,UK,109,4,1.5,1.1,140,1,14.1,6,Mild,"Medication, Vitamin D"
+72,Astronaut_72,50,M,Canada,193,4,1.6,3,189,7,11.7,3,Moderate,"Medication, Vitamin D"
+73,Astronaut_73,42,F,UK,298,5,1.4,2,106,8,13.8,3,Clear,"Medication, Vitamin D"
+74,Astronaut_74,40,M,Russia,250,4,1.2,1.9,193,10,8.6,10,Mild,"Exercise, Vitamin D"
+75,Astronaut_75,49,M,India,222,5,1.7,1.4,197,6,5.3,1,Mild,"Exercise, Vitamin D"
