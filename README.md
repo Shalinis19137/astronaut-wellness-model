@@ -30,6 +30,9 @@ python
 Copy
 Edit
 sns.heatmap(data.corr(), annot=True, cmap='coolwarm')
+
+
+
 ✅ 2. Histogram
 Used to display the distribution of individual features such as Radiation Exposure or Muscle Mass Loss.
 
@@ -37,6 +40,9 @@ python
 Copy
 Edit
 data['Radiation_Exposure (mSv)'].hist(bins=20)
+
+
+
 ✅ 3. Bar Plot
 Visualizes categorical comparisons such as Mission Count vs Gender or Vision Change.
 
@@ -44,6 +50,9 @@ python
 Copy
 Edit
 sns.barplot(x='Gender', y='Muscle_Mass_Loss (%)', data=data)
+
+
+
 ✅ 4. Line Plot
 Tracks trends over mission duration.
 
@@ -51,6 +60,9 @@ python
 Copy
 Edit
 sns.lineplot(x='Mission_Duration (days)', y='Bone_Density_Loss (%)', data=data)
+
+
+
 ✅ 5. Scatter Plot
 Helps visualize interaction between two continuous variables.
 
@@ -58,6 +70,9 @@ python
 Copy
 Edit
 sns.scatterplot(x='Radiation_Exposure (mSv)', y='Immune_Response_Suppression (%)', hue='Gender', data=data)
+
+
+
 ✅ 6. Box Plot
 Identifies outliers and variance in features.
 
@@ -65,7 +80,13 @@ python
 Copy
 Edit
 sns.boxplot(x='Gender', y='Bone_Density_Loss (%)', data=data)
+
+
+
 🤖 Machine Learning Models
+
+
+
 ✅ 1. Decision Tree Classifier
 Used to classify astronauts as either High Risk or Low Risk for psychological impact.
 
@@ -77,6 +98,9 @@ Edit
 from sklearn.tree import DecisionTreeClassifier
 clf = DecisionTreeClassifier()
 clf.fit(X_train, y_train)
+
+
+
 ✅ 2. Random Forest Classifier
 An ensemble method that increases accuracy and reduces overfitting.
 
@@ -88,6 +112,9 @@ Edit
 from sklearn.ensemble import RandomForestClassifier
 rfc = RandomForestClassifier(n_estimators=100)
 rfc.fit(X_train, y_train)
+
+
+
 ✅ 3. Linear Regression
 Used to predict the continuous output: percentage of bone density loss.
 
@@ -99,6 +126,9 @@ Edit
 from sklearn.linear_model import LinearRegression
 reg = LinearRegression()
 reg.fit(X_train, y_train)
+
+
+
 🧪 Evaluation Metrics
 Model	Metric(s) Used
 Classifiers	Accuracy, Precision, Recall, F1-score
@@ -112,6 +142,9 @@ Edit
 from sklearn.metrics import accuracy_score, r2_score
 print("Accuracy:", accuracy_score(y_test, y_pred_class))
 print("R² Score:", r2_score(y_test, y_pred_reg))
+
+
+
 🧠 Sample Input Features
 Feature Name	Description
 Age_at_Mission_Start	Age of astronaut at mission start
@@ -125,6 +158,9 @@ Cardiovascular_Risk_Score	Score between 1-10
 Immune_Response_Suppression (%)	Immune system weakening estimate
 Vision_Change	Change in vision (e.g. Mild, Severe)
 Countermeasures_Used	Exercises or supplements used
+
+
+
 
 📌 Key Highlights
 🔬 Predicts space-induced health deterioration with actionable output.
